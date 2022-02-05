@@ -42,44 +42,489 @@ Roylance, David. _Mechanics of Materials_. New York, NY: John Wiley, 1995. ISBN:
 
 Each assignment is due during the next class session.
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction, overview of polymers | Homework 1 out |
-| 2 | Chemical composition | &nbsp; |
-| 3 | Structure | &nbsp; |
-| 4 | Elastic response | Problem set 1.8 out |
-| 5 | Strain | Problem set 8.4 out |
-| 6 | Stress | &nbsp; |
-| 7 | Transformations of stress and strain | Problem set 10.6 out |
-| 8 | Hookean elasticity | Problem set 11.2 out |
-| 9 | Gaussian chain statistics | &nbsp; |
-| 10 | Rubber elasticity | Problem set 2.7 out |
-| 11 | Elastomer mechanics | Problem set 6.8-6.9 out |
-| 12 | Introduction to linear viscoelasticity | Problem set 19.1-19.2 out |
-| 13 | Creep and stress relaxation | &nbsp; |
-| 14 | Quiz 1 | &nbsp; |
-| 15 | Dynamic response | Problem set 19.4 out |
-| 16 | The Maxwell spring-dashpot model | &nbsp; |
-| 17 | Standard linear solid | Problem set 19.6-19.8 out |
-| 18 | Wiechert solid, Boltzman superposition | Problem set 19.11 out |
-| 19 | Effect of temperature | Problem set 19.17-19.18 out |
-| 20 | Effect of temperature (cont.) | Problem set 19.19 out |
-| 21 | Multiaxial stresses | Problem set 19.20 out |
-| 22 | Stress analysis: Superposition | &nbsp; |
-| 23 | Stress analysis: Correspondence principle | Problem set 19.21-19.22 out |
-| 24 | Composite materials, rule of mixtures | Problem set 3.1-3.2 out |
-| 25 | Mechanics of composites | Problem set 3.3 out |
-| 26 | Quiz 2 | &nbsp; |
-| 27 | Composite laminates: Anisotropy and transformations | Problem set 15.1-15.2 out |
-| 28 | Laminates: Plate bending | Problem set 15.5 out |
-| 29 | Laminates: Temperature and viscoelastic effects | &nbsp; |
-| 30 | Yield | Problem set 4.8 out |
-| 31 | Yield: Multiaxial stresses | &nbsp; |
-| 32 | Yield: Effect of hydrostatic stress, crazing | &nbsp; |
-| 33 | Yield: Effect of rate and temperature | Problem set 20.10 out |
-| 34 | Fracture: The Zhurkov model | &nbsp; |
-| 35 | Fracture: The Griffith model | &nbsp; |
-| 36 | Fracture: Crack-tip stresses, stress intensity factor | &nbsp; |
-| 37 | Quiz 3 | &nbsp; |
-| 38 | Fracture: Effect of specimen geometry | &nbsp; |
-| 39 | Fracture: J-integral and viscoelasticity |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, overview of polymers
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical composition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Structure
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Elastic response
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1.8 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Strain
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8.4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Stress
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Transformations of stress and strain
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10.6 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Hookean elasticity
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 11.2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Gaussian chain statistics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Rubber elasticity
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2.7 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Elastomer mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6.8-6.9 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to linear viscoelasticity
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 19.1-19.2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Creep and stress relaxation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamic response
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 19.4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The Maxwell spring-dashpot model
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Standard linear solid
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 19.6-19.8 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Wiechert solid, Boltzman superposition
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 19.11 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Effect of temperature
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 19.17-19.18 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Effect of temperature (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 19.19 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Multiaxial stresses
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 19.20 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Stress analysis: Superposition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Stress analysis: Correspondence principle
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 19.21-19.22 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Composite materials, rule of mixtures
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3.1-3.2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanics of composites
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3.3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Composite laminates: Anisotropy and transformations
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 15.1-15.2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Laminates: Plate bending
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 15.5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Laminates: Temperature and viscoelastic effects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Yield
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4.8 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Yield: Multiaxial stresses
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Yield: Effect of hydrostatic stress, crazing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Yield: Effect of rate and temperature
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 20.10 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Fracture: The Zhurkov model
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Fracture: The Griffith model
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Fracture: Crack-tip stresses, stress intensity factor
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Fracture: Effect of specimen geometry
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Fracture: J-integral and viscoelasticity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
