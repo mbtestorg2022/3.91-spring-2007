@@ -9,6 +9,7 @@ description: 'This file contains information about truss which is an assemblage 
   introduced in the modules dealing with uniaxial response.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-91-mechanical-behavior-of-plastics-spring-2007/3727c43985b09ce1601dc18850441542_05_trusses.pdf
 file_type: application/pdf
+parent_uid: 106c3e7c-a318-1592-5947-71c83f813f89
 resourcetype: Document
 title: 05_trusses.pdf
 uid: 3727c439-85b0-9ce1-601d-c18850441542

@@ -5,6 +5,7 @@ description: This file contain information about stress-strain curves which are 
   of Mechanics of Materials will encounter them often.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-91-mechanical-behavior-of-plastics-spring-2007/3a897788136a567881ff5c4ff10ca780_04_stress.pdf
 file_type: application/pdf
+parent_uid: 106c3e7c-a318-1592-5947-71c83f813f89
 resourcetype: Document
 title: 04_stress.pdf
 uid: 3a897788-136a-5678-81ff-5c4ff10ca780

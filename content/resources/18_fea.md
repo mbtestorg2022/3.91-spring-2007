@@ -5,6 +5,7 @@ description: This file contains information about matrix analysis of trusses, St
   stress analysis, and stresses around a circular hole.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-91-mechanical-behavior-of-plastics-spring-2007/ea23d1bd2c915914cf76e3b3a302f9e2_18_fea.pdf
 file_type: application/pdf
+parent_uid: 106c3e7c-a318-1592-5947-71c83f813f89
 resourcetype: Document
 title: 18_fea.pdf
 uid: ea23d1bd-2c91-5914-cf76-e3b3a302f9e2
